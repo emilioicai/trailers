@@ -1,20 +1,15 @@
+
 {
-    "courses": [
-        [{
-            "id": "387",
-            "thumbnailUrl": "https://i.vimeocdn.com/video/734161989_1280x720.jpg?r=pad",
-            "title": "Introducción a Adobe Photoshop",
-            "trailerUrl": "https://player.vimeo.com/external/295400375.hd.mp4?s=feac97d87265e818dfca5387a9b18d3ad7fff989&profile_id=175&oauth2_token_id=1121588336"
-          }, {
-            "id": "499",
-            "thumbnailUrl": "https://i.vimeocdn.com/video/779261258_1280x720.jpg?r=pad",
-            "title": "Introducción a Adobe Illustrator",
-            "trailerUrl": "https://player.vimeo.com/external/327709635.hd.mp4?s=cc8e8681cea8297addc2bcc5f0ac215251c4db8c&profile_id=174&oauth2_token_id=1121588336"
-          }, {
-            "id": "304",
-            "thumbnailUrl": "https://i.vimeocdn.com/video/718231964_1280x720.jpg?r=pad",
-            "title": "Introducción a After Effects",
-            "trailerUrl": "https://player.vimeo.com/external/248345167.hd.mp4?s=d5c7be434335781a1e9cadeb075855eb6e04091b&profile_id=174&oauth2_token_id=1121588336"
-          }]
-    ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
