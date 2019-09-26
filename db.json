@@ -158,7 +158,7 @@
       "lessonsCount": 24,
       "students": 241320,
       "audio": "Spanish",
-      "subtitles": ["English", "Spanish", "Portugese"]
+      "subtitles": []
     },
     {
       "id": "154",
@@ -184,7 +184,7 @@
       "lessonsCount": 24,
       "students": 241320,
       "audio": "Spanish",
-      "subtitles": ["English", "Spanish", "Portugese"]
+      "subtitles": []
     },
     {
       "id": "208",
@@ -204,7 +204,7 @@
       "lessonsCount": 24,
       "students": 241320,
       "audio": "Spanish",
-      "subtitles": ["English", "Spanish", "Portugese"]
+      "subtitles": [ "Spanish", "Portugese"]
     },
     {
       "id": "264",
@@ -224,67 +224,6 @@
       "lessonsCount": 24,
       "students": 241320,
       "audio": "Spanish",
-      "subtitles": ["English", "Spanish", "Portugese"]
-    },
-    {
-      "id": "175",
-      "thumbnailUrl": "https://i.vimeocdn.com/video/634858933_1280x720.jpg?r=pad",
-      "title": "Introducción a la ilustración infantil",
-      "trailerUrl": "https://player.vimeo.com/external/215825241.hd.mp4?s=97ad486318f7eb3b24c51826802f4a85ccc91ea4&profile_id=174&oauth2_token_id=1121588336",
-      "description": "Un curso espectacular sobre cómo dar tus primeros pasos en la ilustración infantil.",
-      "location": "Ciudad de México",
-      "teacher": {
-        "name": "Carlos Garzón",
-        "avatarUrl": "https://secure.meetupstatic.com/photos/member/a/3/b/a/member_263801914.jpeg"
-      },
-      "reviews": {
-        "positive": 392521,
-        "total": 402342
-      },
-      "lessonsCount": 24,
-      "students": 241320,
-      "audio": "Spanish",
-      "subtitles": ["English", "Spanish", "Portugese"]
-    },
-    {
-      "id": "328",
-      "thumbnailUrl": "https://i.vimeocdn.com/video/757981616_1280x720.jpg?r=pad",
-      "title": "Diseño de interiores para restaurantes",
-      "trailerUrl": "https://player.vimeo.com/external/308992999.hd.mp4?s=165720519a1abac56b2a220868c8ea399060634f&profile_id=175&oauth2_token_id=1121588336",
-      "description": "Un curso espectacular sobre cómo dar tus primeros pasos en el diseño de interiores para restaurantes.",
-      "location": "Ciudad de México",
-      "teacher": {
-        "name": "Carlos Garzón",
-        "avatarUrl": "https://secure.meetupstatic.com/photos/member/a/3/b/a/member_263801914.jpeg"
-      },
-      "reviews": {
-        "positive": 392521,
-        "total": 402342
-      },
-      "lessonsCount": 24,
-      "students": 241320,
-      "audio": "Spanish",
-      "subtitles": ["English", "Spanish", "Portugese"]
-    },
-    {
-      "id": "470",
-      "thumbnailUrl": "https://i.vimeocdn.com/video/771316421_1280x720.jpg?r=pad",
-      "title": "Desarrollo de un plan de medios digitales",
-      "trailerUrl": "https://player.vimeo.com/external/319968228.hd.mp4?s=9fd73fa3c40795767cda9d33aab0d6639ea2fc6d&profile_id=174&oauth2_token_id=1121588336",
-      "description": "Un curso espectacular sobre cómo dar tus primeros pasos en el mundo de los medios digitales.",
-      "location": "Ciudad de México",
-      "teacher": {
-        "name": "Carlos Garzón",
-        "avatarUrl": "https://secure.meetupstatic.com/photos/member/a/3/b/a/member_263801914.jpeg"
-      },
-      "reviews": {
-        "positive": 392521,
-        "total": 402342
-      },
-      "lessonsCount": 24,
-      "students": 241320,
-      "audio": "Spanish",
-      "subtitles": ["English", "Spanish", "Portugese"]
+      "subtitles": ["English"]
     }
-  ]
 }
